@@ -56,7 +56,7 @@ Each night, choose a player and a message: the storyteller wakes and tells them 
 
 ### Plague Herald
 
-When you are nominated, the nominated player is poisoned until you are next nominated.
+When you are nominated, the player who nominated you is poisoned until you are next nominated.
 
 ### Doppelganger
 
