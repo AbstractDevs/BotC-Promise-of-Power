@@ -58,7 +58,7 @@ Each night, choose a player and a message: the storyteller wakes and tells them 
 
 When you are nominated, the nominated player is poisoned until you are next nominated.
 
-### Dopplganger
+### Doppelganger
 
 On your first night choose a character, you register as that character. Each night chose a player and a character - tonight and tomorrow day they register as that character.
 

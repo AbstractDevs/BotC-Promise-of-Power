@@ -10,4 +10,4 @@
  ## 0.0.2 - 2024.10.2
 
  ### Added
-- Added Dopplganger
+- Added Doppelganger
